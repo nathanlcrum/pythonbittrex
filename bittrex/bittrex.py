@@ -1,4 +1,4 @@
-# Rushy Panchal
+# Nathan Crum
 
 """
    See https://bittrex.com/Home/Api
