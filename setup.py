@@ -12,7 +12,7 @@ setup(
 	keywords=['bittrex', 'bitcoin', 'exchange'],
 	author='Rushy Panchal',
 	author_email='panchal.rushy@gmail.com',
-	install_requires=["requests==2.20.0"],
+	install_requires=["requests==2.31.0"],
 	classifiers=[
 	    'Programming Language :: Python',
 	    'Programming Language :: Python :: 2.7',
